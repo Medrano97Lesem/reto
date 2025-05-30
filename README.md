@@ -2,7 +2,7 @@
 implementar una función `sumarNumeros(a, b)`
 ## Descripcion 
 Verifique que ambos parámetros `a y b `sean números enteros.
-```
+```python
 def suma(a,b):
     if a % 1 == 0 and b % 1 == 0: ## Verifica si el numero ingresado es entero
       print (f'la suma de los numeros es: {a+b} SW')
